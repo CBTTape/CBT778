@@ -1,0 +1,10 @@
+2023-08-06 07:02:01.206608 - Initialized conversion of CBT778
+2023-08-06 07:02:01.251561 - Received CBT.V505.FILE778.PDS from FILE778.XMI 
+2023-08-06 07:02:01.254207 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE778.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:02:01.255378 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE778.PDS, moved to PDS/$$NOTE1
+2023-08-06 07:02:01.256473 - Found #DOC.txt (text/plain) in CBT.V505.FILE778.PDS, moved to PDS/#DOC
+2023-08-06 07:02:01.257533 - Found #INDEX.txt (text/plain) in CBT.V505.FILE778.PDS, moved to PDS/#INDEX
+2023-08-06 07:02:01.258547 - Found @FILE778.txt (text/plain) in CBT.V505.FILE778.PDS, moved to PDS/@FILE778
+2023-08-06 07:02:01.259758 - Found ALXEXCOM.txt (text/plain) in CBT.V505.FILE778.PDS, moved to PDS/ALXEXCOM
+2023-08-06 07:02:01.260706 - Found GIMREXX.rexx (text/plain) in CBT.V505.FILE778.PDS, moved to PDS/GIMREXX
+2023-08-06 07:02:01.261631 - Found RXGIMAPI.txt (text/plain) in CBT.V505.FILE778.PDS, moved to PDS/RXGIMAPI
